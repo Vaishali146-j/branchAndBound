@@ -1,0 +1,7 @@
+{
+  "name": "Branch & Bound Visualizer - DAA Interactive Explorer",
+  "description": "Interactive step-by-step visualization and algorithmic analysis for Branch and Bound on TSP and 0/1 Knapsack, featuring search space pruning breakdown, student challenge mode, and brute-force benchmarking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
